@@ -2,10 +2,6 @@ package com.company;
 
 import java.util.*;
 
-/**
- *
- * @author H-ATATRAH
- */
 public class Training1 {
 
     public static void main(String[] args) {
